@@ -211,4 +211,4 @@ This algo-trading framework is intended for educational and research purposes on
 The developers of this framework are not responsible for any financial losses incurred from using this software. Users should conduct their due diligence and consult with a professional financial advisor before engaging in real trading activities.
 
 ## Authors
-@hectorr-st(https://github.com/hectorrs-t)
+Suzuki Taro (https://github.com/hectorr-st)
