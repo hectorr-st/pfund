@@ -1,12 +1,5 @@
 # PFund: A Complete Algo-Trading Framework powered by Machine Learning and Data Engineering, TradFi, CeFi and DeFi ready.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pfund_ai?style=social)](https://x.com/pfund_ai)
-![GitHub stars](https://img.shields.io/github/stars/PFund-Software-Ltd/pfund?style=social)
-![PyPI downloads](https://img.shields.io/pypi/dm/pfund)
-[![PyPI](https://img.shields.io/pypi/v/pfund.svg)](https://pypi.org/project/pfund)
-![PyPI - Support Python Versions](https://img.shields.io/pypi/pyversions/pfund)
-![Discussions](https://img.shields.io/badge/Discussions-Let's%20Chat-green)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/PFund-Software-Ltd/pfund)
 <!-- [![marimo](https://marimo.io/shield.svg)](https://marimo.io) -->
 <!-- [![Jupyter Book Badge](https://raw.githubusercontent.com/PFund-Software-Ltd/pfund/main/docs/images/jupyterbook.svg
 )](https://jupyterbook.org) -->
@@ -210,14 +203,12 @@ Strategy and model development could be so much faster since you can build on to
 \* = use a **_separate data source_** (e.g. [FirstRate Data]) for backtesting
 
 
-## Related Projects
-- [PFeed] — Data engine for algo-trading, helping traders in getting real-time and historical data, and storing them in a local data lake for quantitative research.
-- [PyTrade.org] - A curated list of Python libraries and resources for algorithmic trading.
-
-
 ## Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 This algo-trading framework is intended for educational and research purposes only. It should not be used for real trading without understanding the risks involved. Trading in financial markets involves significant risk, and there is always the potential for loss. Your trading results may vary. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this platform.
 
 The developers of this framework are not responsible for any financial losses incurred from using this software. Users should conduct their due diligence and consult with a professional financial advisor before engaging in real trading activities.
+
+## Authors
+@hectorr-st(https://github.com/hectorrs-t)
